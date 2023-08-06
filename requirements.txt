@@ -1,0 +1,11 @@
+asgiref
+Django
+djangorestframework
+Faker
+python-dateutil
+pytz
+six
+sqlparse
+text-unidecode
+validate-docbr
+django-cors-headers
