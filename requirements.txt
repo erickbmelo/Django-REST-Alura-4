@@ -9,3 +9,4 @@ sqlparse
 text-unidecode
 validate-docbr
 django-cors-headers
+pillow
