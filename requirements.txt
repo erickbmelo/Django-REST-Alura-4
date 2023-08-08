@@ -10,3 +10,4 @@ text-unidecode
 validate-docbr
 django-cors-headers
 pillow
+djangorestframework-xml
